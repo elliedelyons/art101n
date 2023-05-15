@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+	
+	<main id="content">
+		<section>
+			<h1>Ellie & Amaya</h1>
+					<p>Hello! My name is Ellie and my partner's name is Amaya. We both like to hike, journal, read, and listen to music. </p>
+	
+
+                </div>
+			
+                <div class="assignments major-section">
+                    <h2>labs</h2>
+                    <ul>
+                        <li><a href="file:///Users/ellie/Documents/GitHub/art101n/lab3/js/index2.html">Lab 2: Your First HTML </a>/li>
+                        <li><a  href="lab3/">Lab 3: File Structure</a></li>
+                        <li><a  href="lab4/">Lab 4: File Transfer</a></li>
+                        <li><a  href="lab5/">Lab 5:</a></li>
+                        <li><a  href="lab6/">Lab 6:</a></li>
+                    </ul>
+                </div>
+            </section>
+        </main>
+    </body>
+</html>
